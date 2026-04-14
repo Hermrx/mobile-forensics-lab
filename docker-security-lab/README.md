@@ -42,12 +42,9 @@ and Docker Compose approaches.
 - Minimal installation with --no-install-recommends
 - restart: always for automatic recovery
 
-## Full Reports
-See attached PDFs for complete documentation with screenshots.
+## Full Report
+[View Complete Practice Report](../Fundamentos_de_Seguridad_Cloud_e_infraestructuras_industriales_HerminioAquino.pdf)
 
 ## Author
 Herminio José Aquino Ramos
 Cybersecurity Graduate | ISO 27001 & ISO 22301 Internal Auditor (TÜV Nord)
-## Full Report
-See [Fundamentos_de_Seguridad_Cloud_e_infraestructuras_industriales_HerminioAquino.pdf](Fundamentos_de_Seguridad_Cloud_e_infraestructuras_industriales_HerminioAquino.pdf) 
-for complete documentation with screenshots.
