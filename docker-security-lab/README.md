@@ -48,3 +48,6 @@ See attached PDFs for complete documentation with screenshots.
 ## Author
 Herminio José Aquino Ramos
 Cybersecurity Graduate | ISO 27001 & ISO 22301 Internal Auditor (TÜV Nord)
+## Full Report
+See [Fundamentos_de_Seguridad_Cloud_e_infraestructuras_industriales_HerminioAquino.pdf](Fundamentos_de_Seguridad_Cloud_e_infraestructuras_industriales_HerminioAquino.pdf) 
+for complete documentation with screenshots.
